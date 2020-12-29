@@ -2,6 +2,4 @@ theme: jekyll-theme-minimal
 title: Joseph Emile Honour Percival
 description: 
   <img src="profile.jpeg">
-  <a href="cv.pdf" download>
-    <img src="cv.pdf" alt="CV">
-  </a>
+  <a href="cv.pdf" CV></a>
