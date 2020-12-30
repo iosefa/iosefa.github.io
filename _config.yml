@@ -3,4 +3,4 @@ title: Joseph Emile Honour Percival
 description: 
   <img src="profile.jpeg">
   
-  <a href="CV.pdf">Download CV</a>
+  <a class="p" href="CV.pdf">Download CV</a>
